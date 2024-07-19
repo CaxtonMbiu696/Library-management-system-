@@ -1,0 +1,1 @@
+The Library class manages the collection of books and users, providing methods for adding and removing books and users, as well as searching for books by title, author, and publication year. The User class represents a user, allowing them to borrow and return books. The Book class represents a book, with attributes for title, author, publication year, and availability.
